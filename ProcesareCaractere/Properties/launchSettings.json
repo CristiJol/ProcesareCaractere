@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProcesareCaractere": {
+      "commandName": "Project",
+      "commandLineArgs": "fisier.txt"
+    }
+  }
+}
